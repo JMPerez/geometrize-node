@@ -1,0 +1,11 @@
+{
+  "name": "geometrize",
+  "version": "0.0.0",
+  "description": "Node.js port of Geometrize, used to generate SVG images from bitmap ones",
+  "main": "main.js",
+  "author": "José M. Pérez",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.0.0-alpha.6"
+  }
+}
